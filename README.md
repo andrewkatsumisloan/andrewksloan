@@ -1,2 +1,1 @@
-Currently working as a Software Engineer at Tax Foundation.
-
+Currently working as a Software Engineer at RAND Corporation. 
